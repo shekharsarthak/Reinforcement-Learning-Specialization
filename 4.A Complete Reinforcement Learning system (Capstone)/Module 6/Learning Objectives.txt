@@ -1,0 +1,6 @@
+This week you will identify a parameter to study, for your agent. Once you select the parameter to study, we will provide you with a range of values and specific values for other parameters. You will write a script to run your agent and environment on the set of parameters, to determine performance across these parameters. You will gain insight into the impact of parameters on agent performance. You will also get to visualize the agents that you learn. Your parameter study will consist of an array of values that we will check for correctness.
+
+Learning Objectives
+
+Select appropriate meta-parameters
+Implement a complete reinforcement learning system to land your module on the moon

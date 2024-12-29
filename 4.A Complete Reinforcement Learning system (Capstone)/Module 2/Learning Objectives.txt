@@ -1,0 +1,7 @@
+This week you will read a description of a problem, and translate it into an MDP. You will complete skeleton code for this environment, to obtain a complete MDP for use in this capstone project.
+
+Learning Objectives
+
+Understand the state and action space
+Understand the reward function that you need to implement.
+Use the Lunar Lander environment

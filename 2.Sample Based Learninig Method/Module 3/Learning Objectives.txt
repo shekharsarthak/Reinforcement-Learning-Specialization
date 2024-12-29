@@ -1,0 +1,10 @@
+This week, you will learn about one of the most fundamental concepts in reinforcement learning: temporal difference (TD) learning. TD learning combines some of the features of both Monte Carlo and Dynamic Programming (DP) methods. TD methods are similar to Monte Carlo methods in that they can learn from the agent’s interaction with the world, and do not require knowledge of the model. TD methods are similar to DP methods in that they bootstrap, and thus can learn online---no waiting until the end of an episode. You will see how TD can learn more efficiently than Monte Carlo, due to bootstrapping. For this module, we first focus on TD for prediction, and discuss TD for control in the next module. This week, you will implement TD to estimate the value function for a fixed policy, in a simulated domain.
+
+Learning Objectives
+
+Define temporal-difference learning
+Define the temporal-difference error
+Understand the TD(0) algorithm
+Understand the benefits of learning online with TD
+Identify key advantages of TD methods over Dynamic Programming and Monte Carlo methods
+Identify the empirical benefits of TD learning

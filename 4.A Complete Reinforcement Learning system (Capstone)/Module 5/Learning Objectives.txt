@@ -1,0 +1,8 @@
+This week, you will implement your agent using Expected Sarsa or Q-learning with RMSProp and Neural Networks. To use NNs, you will have to use a more careful stepsize selection strategy, which is why you will use RMSProp. You will also verify the correctness of your agent.
+
+Learning Objectives
+
+Understand how we will update our estimates of the action values.
+Recall the details of the Adam algorithm.
+Understand how to make your agent more sample efficient, when using function approximation.
+Recall the experience replay method, and how it relates to Dyna.

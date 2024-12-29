@@ -1,0 +1,12 @@
+This week, you will see that the concepts and tools introduced in modules two and three allow straightforward extension of classic TD control methods to the function approximation setting. In particular, you will learn how to find the optimal policy in infinite-state MDPs by simply combining semi-gradient TD methods with generalized policy iteration, yielding classic control methods like Q-learning, and Sarsa. We conclude with a discussion of a new problem formulation for RL---average reward---which will undoubtedly be used in many applications of RL in the future.
+
+Learning Objectives
+
+Explain the update for Episodic Sarsa with function approximation
+Introduce the feature choices, including passing actions to features or stacking state features
+Visualize value function and learning curves
+Discuss how this extends to Q-learning easily, since it is a subset of Expected Sarsa
+Understanding optimistically initializing your value function as a form of exploration
+Describe the average reward setting
+Explain when average reward optimal policies are different from discounted solutions
+Understand how differential value functions are different from discounted value functions

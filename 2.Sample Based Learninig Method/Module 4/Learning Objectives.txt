@@ -1,0 +1,20 @@
+This week, you will learn about using temporal difference learning for control, as a generalized policy iteration strategy. You will see three different algorithms based on bootstrapping and Bellman equations for control: Sarsa, Q-learning and Expected Sarsa. You will see some of the differences between the methods for on-policy and off-policy control, and that Expected Sarsa is a unified algorithm for both. You will implement Expected Sarsa and Q-learning, on Cliff World.
+
+Learning Objectives
+
+Explain how generalized policy iteration can be used with TD to find improved policies
+Describe the Sarsa Control algorithm
+Understand how the Sarsa control algorithm operates in an example MDP
+Analyze the performance of a learning algorithm
+Describe the Q-learning algorithm
+Explain the relationship between Q-learning and the Bellman optimality equations.
+Apply Q-learning to an MDP to find the optimal policy
+Understand how Q-learning performs in an example MDP
+Understand the differences between Q-learning and Sarsa
+Understand how Q-learning can be off-policy without using importance sampling
+Describe how the on-policy nature of SARSA and the off-policy nature of Q-learning affect their relative performance
+Describe the Expected Sarsa algorithm
+Describe Expected Sarsa’s behaviour in an example MDP
+Understand how Expected Sarsa compares to Sarsa control
+Understand how Expected Sarsa can do off-policy learning without using importance sampling
+Explain how Expected Sarsa generalizes Q-learning

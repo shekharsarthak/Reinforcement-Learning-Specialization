@@ -1,0 +1,5 @@
+This week you will select from three algorithms, to learn a policy for the environment. You will reflect on and discuss the appropriateness of each algorithm for this environment.
+
+Learning Objectives
+
+Understand how to solve this MDP by deciding which of the many algorithms you have learned about are a good fit for this problem.

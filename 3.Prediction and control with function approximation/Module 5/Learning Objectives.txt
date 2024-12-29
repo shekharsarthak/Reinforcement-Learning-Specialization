@@ -1,0 +1,18 @@
+Every algorithm you have learned about so far estimates a value function as an intermediate step towards the goal of finding an optimal policy. An alternative strategy is to directly learn the parameters of the policy. This week you will learn about these policy gradient methods, and their advantages over value-function based methods. You will also learn how policy gradient methods can be used to find the optimal policy in tasks with both continuous state and action spaces.
+
+Learning Objectives
+
+Understand how to define policies as parameterized functions
+Define one class of parameterized policies based on the softmax function
+Understand the advantages of using parameterized policies over action-value based methods
+Describe the objective for policy gradient algorithms
+Describe the results of the policy gradient theorem
+Understand the importance of the policy gradient theorem
+Derive a sample-based estimate for the gradient of the average reward objective
+Describe the actor-critic algorithm for control with function approximation, for continuing tasks
+Derive the actor-critic update for a softmax policy with linear action preferences
+Implement the actor-critic algorithm with a softmax policy with linear action preferences
+Design concrete function approximators for an average reward actor-critic algorithm
+Analyze the performance of an average reward agent
+Derive the actor-critic update for a gaussian policy
+Apply average reward actor-critic with a gaussian policy to a particular task with continuous actions
